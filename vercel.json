@@ -1,4 +1,5 @@
 {
-    "builds": [],
-    "outputDirectory": "public"
+    "build": {
+        "ignoreCommand": "echo 'Skipping build...'; exit 1"
+    }
 }
